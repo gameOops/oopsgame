@@ -14,4 +14,5 @@ $password = '473eX10';
    }
     $result2 = mysqli_query($mysqli,"DELETE FROM `keys` WHERE `id` = $id");
 	mail();
-?>
+//Test stuff
+	?>
